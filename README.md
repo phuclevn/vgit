@@ -1,4 +1,0 @@
-vgit
-====
-
-git tieng viet
